@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothFileTransfer</string>
+    <string name="waiting_text">Waiting for file...</string>
+    <string name="received_text">Received:\n%1$s</string>
+    <string name="file_sent">File Sent!</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="send_file">Send File</string>
+    <string name="receiver_mode">Open Receiver Mode</string>
+</resources>
